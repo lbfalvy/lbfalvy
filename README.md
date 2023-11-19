@@ -8,5 +8,3 @@ Currently looking for work.
 - Other tools I use a lot: Docker, Node, TypeORM, Fastify
 - Current learning target: Rust
 - Project of interest: [Orchid](https://github.com/lbfalvy/orchid)
-
-I usually respond to emails in 3 working days.
