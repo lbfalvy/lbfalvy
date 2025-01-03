@@ -1,10 +1,9 @@
-I'm an avid supporter of static typing, not just because of the safety it provides but also because a good tool is one with principles to build other tools on. My favourite thing about Typescript is the quality of the suggestions and the popup docs.
 
-Currently looking for work.
+![brainmade.org](https://brainmade.org/white-logo.svg)  
+All code published on my Github is written by me unless explicitly stated, and I don't use ML-based autocomplete. I cannot guarantee the same for dependencies, my tools, and the learning examples I find online.
 
 ---
 
-- Mostly working in: React, Typescript
+- Mostly working in: Typescript, C#, Rust
 - Other tools I use a lot: Docker, Node, TypeORM, Fastify
-- Current learning target: Rust
 - Project of interest: [Orchid](https://github.com/lbfalvy/orchid)
